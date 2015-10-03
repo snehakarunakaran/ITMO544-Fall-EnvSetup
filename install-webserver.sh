@@ -2,7 +2,7 @@
 
 #!/bin/bash
 
-sudo apt-get update-y
+sudo apt-get update -y
 sudo apt-get install -y apache2 git
 
 git clone https://github.com/snehakarunakaran/ITMO544-Fall-Application.git
